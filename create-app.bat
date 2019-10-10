@@ -1,0 +1,1 @@
+heroku create livescore24 --region eu --buildpack heroku/go
